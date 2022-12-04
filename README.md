@@ -1,6 +1,4 @@
-<!-- [![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif
-)](https://rishavchanda.io
-) -->
+<img src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Organic Artificial Intelligence design for milkinside by Gleb Kuznetsov ✈  for Milkinside on Dribbble" data-noaft="1" style="width: 378.667px; height: 284px; margin: 0px;">
 <h1 align="center">Hi 👋, I'm Medha KM</h1>
 <h3 align="center">A passionate ML and Flutter developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
